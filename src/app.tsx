@@ -6,6 +6,7 @@ export function App() {
   return (
     <div className={contraste ? "bodyBlack" : "bodyWhite"}>
       <h1>FALA DEVII</h1>
+      <h2>Raul</h2>
       <img
         src="../mao.png"
         className={contraste ? "gatoDaAliciaComFomeLigado" : ""}
