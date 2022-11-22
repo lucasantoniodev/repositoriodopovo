@@ -6,8 +6,7 @@ export function App() {
   return (
     <div className={contraste ? "bodyBlack" : "bodyWhite"}>
       <h1>Lucas</h1>
-      <h2>Conteúdo</h2>
-      sad
+      <h2>vai funcionaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h2>
     </div>
   );
 }
