@@ -1,0 +1,15 @@
+.bodyWhite {
+    background-color:#ffffff;
+    min-width: 800px;
+    min-height: 400px
+}
+
+.bodyBlack {
+    background-color:#000000;
+    min-width: 800px;
+    min-height: 400px
+}
+
+.gatoDaAliciaComFomeLigado {
+    filter: invert(100%);
+}
